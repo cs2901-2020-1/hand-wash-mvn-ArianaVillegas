@@ -1,1 +1,3 @@
-/target
+.*
+hand_wash_mvn/target
+!/.gitignore
